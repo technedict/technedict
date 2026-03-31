@@ -102,4 +102,4 @@ DEVOPS          Docker, Kubernetes, Terraform, Nginx
 
 [![Twitter](https://img.shields.io/badge/@Technedict-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Technedict)
 [![Email](https://img.shields.io/badge/technedict@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:technedict@gmail.com)
-[![Portfolio](https://img.shields.io/badge/technedictthedev.web.app-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://technedict.vercel.app)
+[![Portfolio](https://img.shields.io/badge/technedict.com-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://technedict.vercel.app)
